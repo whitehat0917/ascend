@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.852" height="19.721" viewBox="0 0 19.852 19.721">
+  <g id="Group_8666" data-name="Group 8666" transform="translate(-55.33 -261.883)">
+    <g id="funds-coin-money_bag" data-name="funds-coin-money bag" transform="translate(55.73 262.283)">
+      <g id="Group_784" data-name="Group 784" transform="translate(0 0)">
+        <path id="Path_12861" data-name="Path 12861" d="M74.409,230a4.9,4.9,0,0,0-4.883,4.883V241.6a1.526,1.526,0,1,0,0,3.052H76.24" transform="translate(-68 -225.727)" fill="none" stroke="#23a5d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+        <path id="Path_12862" data-name="Path 12862" d="M100.8,233.967A4.9,4.9,0,0,0,96,230" transform="translate(-87.455 -225.727)" fill="none" stroke="#23a5d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+        <path id="Path_12863" data-name="Path 12863" d="M86.916,227.221H86.61a.612.612,0,0,1-.61-.61h0a.612.612,0,0,1,.61-.61h2.747a.612.612,0,0,1,.61.61h0a.612.612,0,0,1-.61.61h-.305" transform="translate(-80.507 -222.948)" fill="none" stroke="#23a5d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+        <path id="Path_12864" data-name="Path 12864" d="M87.662,219.052H85.526A1.53,1.53,0,0,1,84,217.526h0A1.53,1.53,0,0,1,85.526,216a1.6,1.6,0,0,0,2.136,0,1.53,1.53,0,0,1,1.526,1.526h0A1.53,1.53,0,0,1,87.662,219.052Z" transform="translate(-79.117 -216)" fill="none" stroke="#23a5d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+        <g id="Group_783" data-name="Group 783" transform="translate(5.798 8.252)">
+          <path id="Path_12865" data-name="Path 12865" d="M87,249.578a1.626,1.626,0,0,0,1.373.916h.916a1.377,1.377,0,0,0,1.373-1.373h0a1.377,1.377,0,0,0-1.373-1.373h-.916A1.377,1.377,0,0,1,87,246.373h0A1.377,1.377,0,0,1,88.373,245h.916a1.626,1.626,0,0,1,1.373.916" transform="translate(-87 -244.402)" fill="none" stroke="#23a5d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+          <line id="Line_182" data-name="Line 182" y2="0.762" transform="translate(1.822)" fill="none" stroke="#23a5d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+          <line id="Line_183" data-name="Line 183" y2="0.762" transform="translate(1.822 6.097)" fill="none" stroke="#23a5d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+        </g>
+      </g>
+      <g id="Group_785" data-name="Group 785" transform="translate(10.669 10.539)">
+        <rect id="Rectangle_1598" data-name="Rectangle 1598" width="6.097" height="2.286" rx="0.5" transform="translate(6.097 8.383) rotate(-180)" fill="none" stroke="#23a5d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+        <rect id="Rectangle_1599" data-name="Rectangle 1599" width="6.097" height="2.286" rx="0.5" transform="translate(6.859 6.097) rotate(180)" fill="none" stroke="#23a5d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+        <rect id="Rectangle_1600" data-name="Rectangle 1600" width="6.097" height="1.524" rx="0.5" transform="translate(8.383 3.81) rotate(180)" fill="none" stroke="#23a5d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+        <rect id="Rectangle_1601" data-name="Rectangle 1601" width="6.097" height="2.286" rx="0.5" transform="translate(7.621 2.286) rotate(180)" fill="none" stroke="#23a5d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8"/>
+      </g>
+    </g>
+  </g>
+</svg>
